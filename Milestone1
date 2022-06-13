@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang = "en">
+    
+<!-- Head of Page-->
+    <head>
+        <meta charset = "UTF-8">
+        <meta name = "viewport" content = "width = device-width, initial-scale = 1.0">
+        <title>About Me</title>
+    </head>
+    <body>
+
+<!--About me heading wording and font size -->
+        <font face = "Menlo" color = "Red" size = "20">
+        <h1 align = "center">About Me</h1>
+         </font>
+
+<!--Font set for webpage-->
+        <font face = "Times New Roman" color = "Black" size = "5">
+
+<!--Quick discripption About Me-->
+        <h2>Rodrigo Martinez</h2>
+        <p>Hello everyone, my name is a Rodrigo Martinez. I am studying to be a software developer. 
+            Besides code i love sports and traveling to different cites and Theme parks. 
+            Can not wait to learn more about HTML and about CSS.
+        </p>
+
+<!--2nd Point About Me-->           
+        <h2>Favorite Sports</h2> 
+        <ol>
+            <li>Football</li>
+            <li>Hockey</li>
+            <li>Basketballl</li>
+            <li>Baseball</li>
+        </ol>
+        <p>In that Order</p>
+
+<!--3rd Point-->
+        <h2>My Current iPhone Walllpaper</h2>
+        <img src="img_2164.png" alt="current background" width="70" height="140">
+
+
+<!--Random facts about me-->
+        <h2>Random Facts About Me</h2>
+        <ul>
+            <li>Love coffee</li>
+            <li>Love to sleep!!!</li>
+            <li>Love spending time with my family</li>
+            <li>Love traveling (especially to theme parks)</li>
+            <li>Love spending time with friends</li>
+        </ul>
+
+<!--Line-->
+            <hr/>
+
+<!--Page 2 coming soon-->
+        <h1 align = "center">Page 2 Coming Soon</h1>
+
+    </body>
+</html>
